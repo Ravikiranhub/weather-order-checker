@@ -32,7 +32,7 @@ weather-orders/
 
 ### 1. Install dependencies
 ```bash
-npm install
+1. npm install
 
 2. Create .env file
 
